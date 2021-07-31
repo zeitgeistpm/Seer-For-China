@@ -1,4 +1,7 @@
-# Zeitgeist 中国社区大使计划 / Seer for Chinese Community
+# Zeitgeist 中国社区大使计划  
+
+## Seer for Zeitgeist Chinese Community
+
 <p align="center">
   <a href="https://zeitgeist-seer.com/">
     <img src="https://blog.zeitgeist.pm/content/images/size/w2000/2021/07/Seer-Program-BLOG-Thumb.jpg" alt="Logo">
