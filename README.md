@@ -17,19 +17,15 @@
 ## 目录
 
 - [大使计划](#大使计划)
-  - 简介
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+  - [简介](#简介)
+  - [福利](#福利)
+- [积分赛](#积分赛)
 
 ## 大使计划
 
 ### 简介
 
-
+加入 Seer 计划提供了一个与其他志同道合的人一起工作的独特机会，提供访问资源和材料以帮助您创建或发展的机会，并为您提供与 Zeitgeist 团队成员的沟通渠道。在整个计划中将举办一些活动和倡议，所有这些都旨在发展 Zeitgeist 生态系统。那些证明自己是生态系统积极贡献者的人将通过获得称号而在同行中脱颖而出。
 
 ### 福利
 
@@ -37,7 +33,7 @@
 - 我们正在开发一项名为 ["The Discord Kudocoin currency system"](https://zeitgeist-seer.com/events) 的经济货币系统。该系统将是整个 Seer 大使项目的一个重要组成部分，并成为推动我们整个项目的助燃剂。Kudocoins 将会是该经济系统中的货币， 只有被特定选中的项目参与者以及头衔等级为 3 及以上的大使才可获得。
 - 丰富自己在加密货币领域中的履历，提升个人价值。
 - 结识更多的圈内朋友，拓展自己的社交圈。
-- 有机会获得团队给予的各种**赏金**，同时在积分赛中有一定[**积分加成**](https://zeitgeist-seer.com/events)。
+- 有机会获得团队给予的各种**赏金**，同时在积分赛中有一定[**积分加成**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
 
 ## 积分赛
 
@@ -49,7 +45,7 @@
 
 - 每人每月最多获得 **1000** 积分（官方悬赏任务所得积分除外）
 - 如果任务为合作完成，则需要事先自己分配好比例，并明确在 Issue 中。
-- 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE)。
+- 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
 
 ### 大使积分加成表
 
