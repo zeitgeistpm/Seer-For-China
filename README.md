@@ -42,7 +42,7 @@
 
 ### 简介
 
-作为 Zeitgeist 中文社区特有的活动，为了激励大家更好地为社区和生态贡献自己的力量，我们特意设置了积分赛环节，大家的积分情况可以在[**天梯排名表**](https://github.com/Whisker17/Seer-For-China/blob/main/ranking/README.md)中查看，贡献方式见[**此表**](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE) 。
+作为 Zeitgeist 中文社区特有的活动，为了激励大家更好地为社区和生态贡献自己的力量，我们特意设置了积分赛环节，大家的积分情况可以在[**天梯排名表**](https://github.com/Whisker17/Seer-For-China/blob/main/db/README.md)中查看，贡献方式见[**此表**](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE) 。
 
 ### 基本规则
 

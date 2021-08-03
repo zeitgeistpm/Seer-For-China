@@ -42,19 +42,19 @@ Joining the Seer program provides a unique opportunity to work with other like-m
 
 ### Abstract
 
-As a unique campaign of Zeitgeist Chinese community, in order to motivate everyone to contribute more to the community and ecology, we set up a competition called “Accumulating Points” . Everyone's points can be viewed in the ranking table. Check this form to get how to earn points.
+As a unique campaign of Zeitgeist Chinese community, in order to motivate everyone to contribute more to the community and ecology, we set up a competition called “Accumulating Points” . Everyone's points can be viewed in the [ranking table](https://github.com/Whisker17/Seer-For-China/blob/main/db/README.md). Check this [form](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) to get how to earn points.
 
 ### Rules
 
 - Maximum 1000 points per person a month (except the points obtained from the official reward task)
-- All participants need to maintain their own database. See this article for details: https://github.com/Whisker17/Seer-For-China/blob/main/db/How-To-Build.md 
+- All participants need to maintain their own database. See this [article](https://github.com/Whisker17/Seer-For-China/blob/main/db/How-To-Build.md) for details 
 - If the task is completed in cooperation, you need to allocate the proportion yourself in advance and specify it in the issue
-- Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the ambassador's extra bonus table for details.
-- The monthly prize pool will increase dynamically with the increase of the number of participants, initially 1000 ZTG. These ZTGS are distributed in proportion to their points each month
+- Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the [ambassador's extra bonus table](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md#ambassadors-extra-bonus-table) for details.
+- **The monthly prize pool will increase dynamically with the increase of the number of participants, initially 1000 ZTG.** These ZTGS are distributed in proportion to their points each month
 
 ### Task Flow
 
-1. All creations need to be submitted in issue first. Click here to see how to fill in the application form: https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md 
+1. All creations need to be submitted in issue first. Click [here](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md ) to see how to fill in the application form
 2. Once your application approved, you can start your creations to get points. If there are any creations need to update, please synchronize them in the issue
 3. The administrator @Whisker17 will review and scoring your creations. If there is no objection, your points will be recorded; If you have any objection, please give reasons in issue
 4. After the creation is scored, the administrator will close issue

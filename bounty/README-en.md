@@ -5,14 +5,16 @@
 ## Content
 
 - [Independent Contribution](#Independent-Contribution)
+  - [Supplementary Notes](#Supplementary-Notes)
+  - [Tiered Rewards](#Tiered-Rewards)
 - [Official Reward Task](#Official-Reward-Task)
 - [Autonomous Reward Task](#Autonomous-Reward-Task)
 
 ## Warning
 
-Any form of creative content must not involve politics, religion, race, gender, pornography, discrimination, etc., which violate any countries’ laws and ethics. Non original works must obtain commercial license. All copyright and legal responsibilities shall be borne by the creator.
+**Any form of creative content must not involve politics, religion, race, gender, pornography, discrimination, etc., which violate any countries’ laws and ethics. Non original works must obtain commercial license. All copyright and legal responsibilities shall be borne by the creator.**
 
-We believe that a good community ecology is conducive to the development of the whole industry, so please do not involve any behavior that offends other communities.
+**We believe that a good community ecology is conducive to the development of the whole industry, so please do not involve any behavior that offends other communities.**
 
 ## Independent Contribution
 
@@ -25,16 +27,16 @@ We believe that a good community ecology is conducive to the development of the 
 | **Meme**                               | 10                     | 1. **Maximum 3 per week**<br />2. If you make a series of meme packs with a considerable download amount, there will be extra rewards |
 | **Comics and other types of creation** | 50-200                 | Freestyle                                                    |
 
-### Supplementary notes
+### Supplementary Notes
 
 - All the contents published on our Wechat official account will be rewarded based on **the total reading times** 
-  - Reward will distributed each **week** depend on the total readings, [tiered rewards]() will be applied
+  - Reward will distributed each **week** depend on the total readings, [tiered rewards](#Tiered-Rewards) will be applied
   - A warning will be given if participant use bots or any other scripts,and both the reward and qualification will be cancelled
 
 - Since the reward based on the total reading times, we recommend participants try their best to publicize their creations
 - For any work completed by more than one person, please allocate the award proportion by yourself
 
-### Tiered rewards
+### Tiered Rewards
 
 | Total Readings | Total Rewards |
 | -------------- | ------------- |
