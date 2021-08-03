@@ -7,12 +7,9 @@
 </p>
 
 
-<a href="https://discord.com/invite/xv8HuA4s8v">
-  <img align="left" alt="Zeitgeist Official Discord" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> 
+[中文版](https://github.com/Whisker17/Seer-For-China/blob/main/README.md)      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp               [English](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md)
 
 
-
-中文版                     English
 
 
 ## 目录
@@ -62,3 +59,13 @@
 | 501-2000 | Lv.2 | 10%  |
 | 2001-    | Lv.3 | 15%  |
 
+## 联系方式
+
+![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/%E6%90%9C%E4%B8%80%E6%90%9C%E5%8A%A0%E4%BA%8C%E7%BB%B4%E7%A0%81-%E7%BB%BF%E8%89%B2.png)
+
+更多联系方式请点击下图
+
+<a href="https://linktr.ee/zeitgeistcn">
+  <img align="left" alt="Zeitgeist Official Discord" width="200px" src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/Icon%20Linktree.png" /></a> 
+
+<br>

@@ -7,13 +7,9 @@
 </p>
 
 
-
-<a href="https://discord.com/invite/xv8HuA4s8v">
-  <img align="left" alt="Zeitgeist Official Discord" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> 
+[中文版](https://github.com/Whisker17/Seer-For-China/blob/main/README.md)      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp               [English](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md)
 
 
-
-中文版                     English
 
 ## Catalog
 

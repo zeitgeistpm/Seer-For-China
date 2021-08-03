@@ -1,5 +1,7 @@
 # 赏金任务
 
+[中文版](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README.md)      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp               [English](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md)
+
 ## 目录
 
 - [自主贡献](#自主贡献)
