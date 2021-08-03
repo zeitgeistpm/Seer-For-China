@@ -13,16 +13,16 @@
 
 ## Content
 
-- Seer Program
-  - Abstract
-  - Benefits
+- [Seer Program](#Seer-Program)
+  - [Abstract](#Abstract)
+  - [Benefits](#Benefits)
 
-- Accumulating Points
-  - Abstract
-  - Rules
-  - Task flow
-  - Ambassador extra bonus table
-- Contact us
+- [Accumulating Points](#Accumulating-Points)
+  - [Abstract](#Abstract-1)
+  - [Rules](#Rules)
+  - [Task Flow](#Task-Flow)
+  - [Ambassador Extra Bonus Table](#Ambassador-Extra-Bonus-Table)
+- [Contact Us](#Contact-Us)
 
 ## Seer Program
 
@@ -36,7 +36,7 @@ Joining the Seer program provides a unique opportunity to work with other like-m
 - We are developing an economic system called ["Discord Kudocoin currency system"](https://zeitgeist-seer.com/events). The system will be an important part of the whole Seer program and promote our whole project. Kudocoin will be the currency of the economic system and will be available only to specially selected project participants and ambassadors with Title Level 3.
 - Improve your resume and personal value in the field of cryptocurrency
 - Widen your social circle
-- Have the opportunity to get various **rewards** given by the team, and [**extra points**]() in content creations
+- Have the opportunity to get various **rewards** given by the team, and [**extra points**](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#independent-contribution) in content creations
 
 ## Accumulating Points
 
@@ -60,7 +60,7 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 4. After the creation is scored, the administrator will close issue
 5. Maintain creations and related information in your own database
 
-## Ambassador's extra bonus table
+## Ambassador's Extra Bonus Table
 
 | Points<img width=200/> | Level<img width=100/> | Extra Bonus<img width=100/> |
 | ---------------------- | --------------------- | --------------------------- |
@@ -68,7 +68,7 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 | 501-2000               | LV.2                  | 10%                         |
 | 2001-                  | LV.3                  | 15%                         |
 
-## Contact us
+## Contact Us
 
 ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/%E6%90%9C%E4%B8%80%E6%90%9C%E5%8A%A0%E4%BA%8C%E7%BB%B4%E7%A0%81-%E7%BB%BF%E8%89%B2.png)
 
