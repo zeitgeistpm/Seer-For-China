@@ -18,6 +18,11 @@
   - [简介](#简介)
   - [福利](#福利)
 - [积分赛](#积分赛)
+  - 简介
+  - 基本规则
+  - [任务申请流程](#任务申请流程)
+  - [大使积分加成表](#大使积分加成表)
+- [联系方式](#联系方式)
 
 ## 大使计划
 
@@ -47,9 +52,9 @@
 
 ### 任务申请流程
 
-1. 所有贡献需要先在 Issue 中提交申请，申请表填写方式请见此处。管理员通过审核后会
+1. 所有贡献需要先在 Issue 中提交申请，申请表填写方式请见[**此处**](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md)。
 
-![image-20210803112419407](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803112419407.png)
+2. 审核通过后开始自己的贡献，如果有任何任务更新，请同步在所属的 Issue 中
 
 ### 大使积分加成表
 
