@@ -46,8 +46,9 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 
 ### Rules
 
-- Maximum 1000 points per person a month (except the points obtained from the official reward task)
+- Maximum **1000 points** per person a month (except the points obtained from the official reward task)
 - All participants need to maintain their own database. See this [article](https://github.com/Whisker17/Seer-For-China/blob/main/db/How-To-Build.md) for details 
+- Points will be cleared at the beginning of each month
 - If the task is completed in cooperation, you need to allocate the proportion yourself in advance and specify it in the issue
 - Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the [ambassador's extra bonus table](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md#ambassadors-extra-bonus-table) for details.
 - **The monthly prize pool will increase dynamically with the increase of the number of participants, initially 1000 ZTG.** These ZTGS are distributed in proportion to their points each month
