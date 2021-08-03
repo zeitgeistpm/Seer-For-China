@@ -8,8 +8,8 @@
 
    ![image-20210803140544274](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803140544274.png)
 
-3. 后续申请任务并通过审核后，请更新本数据库
+3. 完成任务后更新当月积分和总计积分以及任务清单表格。
 
-   ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803141451718.png)
+   ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803142747703.png)
 
-4. 
+4. 如果还有不清楚的，可以看 Issue 的置顶，有相关示例。
