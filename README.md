@@ -7,11 +7,12 @@
 </p>
 
 
-
 <a href="https://discord.com/invite/xv8HuA4s8v">
   <img align="left" alt="Zeitgeist Official Discord" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> 
 
 
+
+中文版                     English
 
 
 ## 目录
@@ -46,6 +47,12 @@
 - 每人每月最多获得 **1000** 积分（官方悬赏任务所得积分除外）
 - 如果任务为合作完成，则需要事先自己分配好比例，并明确在 Issue 中。
 - 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
+
+### 任务申请流程
+
+1. 所有贡献需要先在 Issue 中提交申请，申请表填写方式请见此处。管理员通过审核后会
+
+![image-20210803112419407](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803112419407.png)
 
 ### 大使积分加成表
 
