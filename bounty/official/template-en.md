@@ -1,5 +1,6 @@
 ---
 Number: "0000"
+Title: <TBD>
 Author: <TBD>
 Category: <Community Develop / Content Creation / Translation>
 Status: <Draft / Ongoing / Finished>
