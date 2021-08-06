@@ -5,7 +5,11 @@
     <img src="https://blog.zeitgeist.pm/content/images/size/w2000/2021/07/Seer-Program-BLOG-Thumb.jpg" alt="Logo">
   </a>
 </p>
-[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl) 
+
+
+[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl)
+
+
 
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/xv8HuA4s8v)
 
