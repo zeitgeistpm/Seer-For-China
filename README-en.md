@@ -5,7 +5,9 @@
     <img src="https://blog.zeitgeist.pm/content/images/size/w2000/2021/07/Seer-Program-BLOG-Thumb.jpg" alt="Logo">
   </a>
 </p>
+[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl) 
 
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/xv8HuA4s8v)
 
 [中文版](https://github.com/Whisker17/Seer-For-China/blob/main/README.md)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                [English](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md)
 
@@ -22,6 +24,7 @@
   - [Rules](#Rules)
   - [Task Flow](#Task-Flow)
   - [Ambassador Extra Bonus Table](#Ambassador-Extra-Bonus-Table)
+  - [Administrator List](#Administrator-List)
 - [Contact Us](#Contact-Us)
 
 ## Seer Program
@@ -57,7 +60,7 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 
 1. All creations need to be submitted in issue first. Click [here](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md ) to see how to fill in the application form
 2. Once your application approved, you can start your creations to get points. If there are any creations need to update, please synchronize them in the issue
-3. The administrator @Whisker17 will review and scoring your creations. If there is no objection, your points will be recorded; If you have any objection, please give reasons in issue
+3. The administrator will review and scoring your creations. If there is no objection, your points will be recorded; If you have any objection, please give reasons in issue
 4. After the creation is scored, the administrator will close issue
 5. Maintain creations and related information in your own database
 
@@ -68,6 +71,12 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 | 0-500                  | LV.1                  | 5%                          |
 | 501-2000               | LV.2                  | 10%                         |
 | 2001-                  | LV.3                  | 15%                         |
+
+### Administrator List
+
+@Whisker17
+
+@7uppp 
 
 ## Contact Us
 
