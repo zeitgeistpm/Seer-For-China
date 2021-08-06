@@ -7,7 +7,7 @@
 </p>
 
 
-[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl)[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/xv8HuA4s8v)
+[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl) &nbsp;&nbsp; &nbsp;  &nbsp;  [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/xv8HuA4s8v)
 
 
 
