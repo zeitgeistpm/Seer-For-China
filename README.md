@@ -55,6 +55,7 @@
 - 如果任务为合作完成，则需要事先自己分配好比例，并明确在 Issue 中。
 - 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
 - **每月奖池将随着参与人数增加而动态增加，初始为 1000 ZTG**。每个月按照各自积分按比例分发这些 ZTG 。
+- 所有贡献的格式要求请见 [Wiki](https://github.com/Whisker17/Seer-For-China/wiki)
 
 ### 任务流程
 

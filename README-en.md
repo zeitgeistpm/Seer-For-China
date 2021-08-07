@@ -55,6 +55,7 @@ As a unique campaign of Zeitgeist Chinese community, in order to motivate everyo
 - If the task is completed in cooperation, you need to allocate the proportion yourself in advance and specify it in the issue
 - Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the [ambassador's extra bonus table](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md#ambassadors-extra-bonus-table) for details.
 - **The monthly prize pool will increase dynamically with the increase of the number of participants, initially 1000 ZTG.** These ZTGS are distributed in proportion to their points each month
+- Please refer to the [wiki](https://github.com/Whisker17/Seer-For-China/wiki) for format requirements for all contributions
 
 ### Task Flow
 
