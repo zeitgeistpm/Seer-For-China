@@ -14,4 +14,6 @@
 
 4. 所有已经加入Seer计划（进入相关Discord）的用户需要填写自己的相关信息。模板见[此链接](https://github.com/Whisker17/Seer-For-China/blob/main/ambassadors/template.md)
 
+   ![image-20210807125402508](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210807125402508.png)
+
 5. 如果还有不清楚的，可以看 Issue 的置顶，有相关示例。
