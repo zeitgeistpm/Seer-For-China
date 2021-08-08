@@ -26,3 +26,6 @@ Explain the expected completion time of this task. If it is a long-term task, yo
 
 Specify what needs to be done in this task
 
+## Reward Points
+
+Explain the details of the reward points for related tasks
