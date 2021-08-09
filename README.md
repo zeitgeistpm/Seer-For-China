@@ -1,10 +1,10 @@
-# Zeitgeist 中国社区大使计划  
-
 <p align="center">
   <a href="https://zeitgeist-seer.com/">
     <img src="https://blog.zeitgeist.pm/content/images/size/w2000/2021/07/Seer-Program-BLOG-Thumb.jpg" alt="Logo">
   </a>
 </p>
+# Zeitgeist 中国社区大使计划  
+
 
 
 [![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/ouhIOBrJPts3MjFl) &nbsp;&nbsp; &nbsp;  &nbsp;  [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/xv8HuA4s8v)
