@@ -3,6 +3,8 @@
     <img src="https://blog.zeitgeist.pm/content/images/size/w2000/2021/07/Seer-Program-BLOG-Thumb.jpg" alt="Logo">
   </a>
 </p>
+
+
 # Zeitgeist Seer Program For Chinese Community
 
 

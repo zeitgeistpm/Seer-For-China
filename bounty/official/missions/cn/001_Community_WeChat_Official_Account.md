@@ -9,8 +9,6 @@
 
 # 社区自治公众号
 
-[中文版]()      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                [English]()
-
 ## 简单总结
 
 建立一个由社区自治的公众号
@@ -41,7 +39,7 @@
 
 ## 其他说明
 
-1. 关于公众号奖励，其中阅读量奖励是分发给每个作者的，公众号维护人员需要每月统计各篇文章一周阅读量，具体信息查看[此处](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E)。而关注人数奖励是发放给公众号维护人员的，是一个一次性的奖励，所有奖励内容需要每月提交 Issue 发起申请，申请模板见此。
+1. 关于公众号奖励，其中阅读量奖励是分发给每个作者的，公众号维护人员需要每月统计各篇文章一周阅读量，具体信息查看[此处](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E)。而关注人数奖励是发放给公众号维护人员的，是一个一次性的奖励，所有奖励内容需要每月提交 **Issue** 发起申请，申请模板见[此](https://github.com/Whisker17/Seer-For-China/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_4.md)。
 2. 公众号需要添加官方人员为协作者，官方人员将不会参与日常维护或者决策。
 3. 月度总结推文也将计入奖励范围。
 

@@ -8,8 +8,6 @@ Status: <Draft / Ongoing / Finished>
 
 # Title
 
-[中文版]()      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                [English]()
-
 ## Simple Summary
 
 Briefly introduce this task
@@ -29,3 +27,4 @@ Specify what needs to be done in this task
 ## Reward Points
 
 Explain the details of the reward points for related tasks
+
