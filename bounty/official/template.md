@@ -8,8 +8,6 @@
 
 # 标题
 
-[中文版]()      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                [English]()
-
 ## 简单总结
 
 简单介绍一下这个任务
