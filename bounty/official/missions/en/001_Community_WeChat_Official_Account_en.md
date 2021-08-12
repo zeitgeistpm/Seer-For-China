@@ -33,11 +33,11 @@ This task will be a long-term task and will be distributed according to the mont
 | ------------------------------------- | ------------------------------------------------------------ |
 | Create a new WeChat Official Account  | 100                                                          |
 | Daily maintenance and article publish | 200 per month                                                |
-| Reading rewards                       | See this [table](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) for details |
-| Followers reward                      | See this [table](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) for details |
+| Reading rewards                       | See this [table](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) for details |
+| Followers reward                      | See this [table](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) for details |
 
 ## Others
 
-1. Regarding the WeChat Official Account rewards, the reading rewards are distributed to each author. The WeChat Official Account maintainers need to count the readings of each article every month. For specific information, please see [here](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#supplementary-notes). The followers reward is issued to the WeChat Official Account maintainer and is a one-time reward. All reward content needs to be submitted to an **Issue** every month. See the application template [here](https://github.com/Whisker17/Seer-For-China/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_4.md).
+1. Regarding the WeChat Official Account rewards, the reading rewards are distributed to each author. The WeChat Official Account maintainers need to count the readings of each article every month. For specific information, please see [here](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/README-en.md#supplementary-notes). The followers reward is issued to the WeChat Official Account maintainer and is a one-time reward. All reward content needs to be submitted to an **Issue** every month. See the application template [here](https://github.com/zeitgeistpm/Seer-For-China/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_4.md).
 2. The WeChat Official Account needs to add officials as collaborators, and officials will not participate in daily maintenance or decision-making.
 3. The monthly summary article will also be included in the award scope.

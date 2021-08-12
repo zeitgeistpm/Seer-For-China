@@ -11,4 +11,5 @@
 
 ## 月度积分榜
 
-- [2021 年 8 月](https://github.com/Whisker17/Seer-For-China/blob/main/db/db-202108.md)
+- [2021 年 9 月](https://github.com/zeitgeistpm/Seer-For-China/blob/main/db/db-202109.md)
+
