@@ -43,27 +43,27 @@ Joining the Seer program provides a unique opportunity to work with other like-m
 - We are developing an economic system called ["Discord Kudocoin currency system"](https://zeitgeist-seer.com/events). The system will be an important part of the whole Seer program and promote our whole project. Kudocoin will be the currency of the economic system and will be available only to specially selected project participants and ambassadors with Title Level 3.
 - Improve your resume and personal value in the field of cryptocurrency
 - Widen your social circle
-- Have the opportunity to get various **rewards** given by the team, and [**extra points**](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#independent-contribution) in content creations
+- Have the opportunity to get various **rewards** given by the team, and [**extra points**](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/README-en.md#independent-contribution) in content creations
 
 ## Accumulating Points
 
 ### Abstract
 
-As a unique campaign of Zeitgeist Chinese community, in order to motivate everyone to contribute more to the community and ecology, we set up a competition called “Accumulating Points” . Everyone's points can be viewed in the [ranking table](https://github.com/Whisker17/Seer-For-China/blob/main/db/README.md). Check this [form](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) to get how to earn points.
+As a unique campaign of Zeitgeist Chinese community, in order to motivate everyone to contribute more to the community and ecology, we set up a competition called “Accumulating Points” . Everyone's points can be viewed in the [ranking table](https://github.com/zeitgeistpm/Seer-For-China/blob/main/db/README.md). Check this [form](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/README-en.md#tiered-rewards) to get how to earn points.
 
 ### Rules
 
 - Maximum **1000 points** per person a month (except the points obtained from the official reward task)
-- All participants need to maintain their own database. See this [article](https://github.com/Whisker17/Seer-For-China/blob/main/db/How-To-Build.md) for details 
+- All participants need to maintain their own database. See this [article](https://github.com/zeitgeistpm/Seer-For-China/blob/main/db/How-To-Build.md) for details 
 - Points will be cleared at the beginning of each month
 - If the task is completed in cooperation, you need to allocate the proportion yourself in advance and specify it in the issue
-- Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the [ambassador's extra bonus table](https://github.com/Whisker17/Seer-For-China/blob/main/README-en.md#ambassadors-extra-bonus-table) for details.
+- Becoming an ambassador will have a certain point bonus. With your points accumulate, you can get a higher bonus. See the [ambassador's extra bonus table](https://github.com/zeitgeistpm/Seer-For-China/blob/main/README-en.md#ambassadors-extra-bonus-table) for details.
 - **The monthly prize pool will increase dynamically with the increase of the number of participants, initially 1000 ZTG.** These ZTGS are distributed in proportion to their points each month
-- Please refer to the [wiki](https://github.com/Whisker17/Seer-For-China/wiki) for format requirements for all contributions
+- Please refer to the [wiki](https://github.com/zeitgeistpm/Seer-For-China/wiki) for format requirements for all contributions
 
 ### Task Flow
 
-1. All creations need to be submitted in issue first. Click [here](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md ) to see how to fill in the application form
+1. All creations need to be submitted in issue first. Click [here](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/How-To-Apply.md ) to see how to fill in the application form
 2. Once your application approved, you can start your creations to get points. If there are any creations need to update, please synchronize them in the issue
 3. The administrator will review and scoring your creations. If there is no objection, your points will be recorded; If you have any objection, please give reasons in issue
 4. After the creation is scored, the administrator will close issue

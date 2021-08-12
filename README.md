@@ -41,27 +41,27 @@
 - 我们正在开发一项名为 ["The Discord Kudocoin currency system"](https://zeitgeist-seer.com/events) 的经济货币系统。该系统将是整个 Seer 大使项目的一个重要组成部分，并成为推动我们整个项目的助燃剂。Kudocoins 将会是该经济系统中的货币， 只有被特定选中的项目参与者以及头衔等级为 3 及以上的大使才可获得。
 - 丰富自己在加密货币领域中的履历，提升个人价值。
 - 结识更多的圈内朋友，拓展自己的社交圈。
-- 有机会获得团队给予的各种**赏金**，同时在积分赛中有一定[**积分加成**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
+- 有机会获得团队给予的各种**赏金**，同时在积分赛中有一定[**积分加成**](https://github.com/zeitgeistpm/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
 
 ## 积分赛
 
 ### 简介
 
-作为 Zeitgeist 中文社区特有的活动，为了激励大家更好地为社区和生态贡献自己的力量，我们特意设置了积分赛环节，大家的积分情况可以在[**天梯排名表**](https://github.com/Whisker17/Seer-For-China/blob/main/db/README.md)中查看，贡献方式见[**此表**](https://github.com/Whisker17/Seer-For-China/tree/main/bounty#%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE) 。
+作为 Zeitgeist 中文社区特有的活动，为了激励大家更好地为社区和生态贡献自己的力量，我们特意设置了积分赛环节，大家的积分情况可以在[**天梯排名表**](https://github.com/zeitgeistpm/Seer-For-China/blob/main/db/README.md)中查看，贡献方式见[**此表**](https://github.com/zeitgeistpm/Seer-For-China/tree/main/bounty#%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE) 。
 
 ### 基本规则
 
-- 所有参与者需要自己维护自己的比赛数据库，详细信息见[此文](https://github.com/Whisker17/Seer-For-China/blob/main/db/How-To-Build.md)。
+- 所有参与者需要自己维护自己的比赛数据库，详细信息见[此文](https://github.com/zeitgeistpm/Seer-For-China/blob/main/db/How-To-Build.md)。
 - 每人每月最多获得 **1000** 积分（官方悬赏任务所得积分除外）
 - 积分将会在每月初清零
 - 如果任务为合作完成，则需要事先自己分配好比例，并明确在 Issue 中。
-- 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/Whisker17/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
+- 成为大使将会有一定的积分加成，同时随着你的积分累积，你可以升级获得更高的加成。详情见[**大使积分加成表**](https://github.com/zeitgeistpm/Seer-For-China#%E5%A4%A7%E4%BD%BF%E7%A7%AF%E5%88%86%E5%8A%A0%E6%88%90%E8%A1%A8)。
 - **每月奖池将随着参与人数增加而动态增加，初始为 1000 ZTG**。每个月按照各自积分按比例分发这些 ZTG 。
-- 所有贡献的格式要求请见 [Wiki](https://github.com/Whisker17/Seer-For-China/wiki)
+- 所有贡献的格式要求请见 [Wiki](https://github.com/zeitgeistpm/Seer-For-China/wiki)
 
 ### 任务流程
 
-1. 所有贡献需要先在 Issue 中提交申请，申请表填写方式请见[**此处**](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/How-To-Apply.md)。
+1. 所有贡献需要先在 Issue 中提交申请，申请表填写方式请见[**此处**](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/How-To-Apply.md)。
 2. 管理员会进行审核，同时给出积分奖励，如果没有异议即审核通过；如果有异议请在 Issue 中给出理由。
 3. 审核通过后开始自己的贡献，如果有任何任务更新，请同步在所属的 Issue 中。
 4. 任务完成并审核后，管理员会关闭 Issue 。

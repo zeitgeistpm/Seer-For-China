@@ -28,7 +28,7 @@ Completed within **one week** after the application being approved.
      3. Discovery Era page: [Discovery Era](https://zeitgeist-seer.com/33596a9bcf95416b9e4cf54635f4edbf)
      4. Title page: [Titles](https://zeitgeist-seer.com/titles)
      5. Program progress report page: [Program progress report](https://zeitgeist-seer.com/report)
-- Please follow the translation requirements. Please be sure to check the [Wiki content](https://github.com/Whisker17/Seer-For-China/wiki) before translating to clarify the translation requirements. If the translated content or format fails to meet the requirements, points will be deducted as appropriate.
+- Please follow the translation requirements. Please be sure to check the [Wiki content](https://github.com/zeitgeistpm/Seer-For-China/wiki) before translating to clarify the translation requirements. If the translated content or format fails to meet the requirements, points will be deducted as appropriate.
 - This translation needs to be completed **collaboratively**, and the partners need to review each other's work before submitting it. **Please do not translate it by machine**.
 
 ## Reward Points
