@@ -18,9 +18,7 @@
 
    ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803123553716.png)
 
-5. **在右侧选择你的合作人（Assignees）以及贡献类型（Labels）**
-
-   ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803123200558.png)
+   
 
 6. **完成后选择提交，等待审核后开始工作。所有有效的贡献都会有一个 ‘有效’ 的标签**
 
