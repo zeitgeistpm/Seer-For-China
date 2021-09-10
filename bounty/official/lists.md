@@ -1,8 +1,16 @@
 # 官方悬赏任务清单
 
-| 任务及其介绍 / Tasks                                         | 负责人 / Principal | 过程明细 / Issue Link | 进度 / Status |
-| ------------------------------------------------------------ | ------------------ | --------------------- | ------------- |
-| [001-社区自治微信公众号](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/001_Community_WeChat_Official_Account.md) |                    |                       |               |
-| [002-Seer官网翻译](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/002_Seer_Page_Translation.md) |                    |                       |               |
-| [003-Seer声明翻译](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/003_Seer_Announcement_Translation.md) |                    |                       |               |
+| 任务及其介绍 / Tasks                                         | 负责人 / Principal                                           | 过程明细 / Issue Link                                   | 进度 / Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- | ------------- |
+| [001-社区自治微信公众号](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/001_Community_WeChat_Official_Account.md) | **[lovecity08](https://github.com/lovecity08)**              | https://github.com/zeitgeistpm/Seer-For-China/issues/18 | Doing         |
+| [002-Seer官网翻译](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/002_Seer_Page_Translation.md) | **[Tanniks](https://github.com/Tanniks)** && **[zjj](https://github.com/zjj104 )** | https://github.com/zeitgeistpm/Seer-For-China/issues/24 | Done          |
+| [003-Seer声明翻译](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/003_Seer_Announcement_Translation.md) | **[lovecity08](https://github.com/lovecity08)**              | https://github.com/zeitgeistpm/Seer-For-China/issues/25 | Done          |
+| [004-Seer报告翻译01](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/004_Seer_Report01_Translation.md) |                                                              |                                                         |               |
+| [005-Seer报告翻译02](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/005_Seer_Report02_Translation.md) |                                                              |                                                         |               |
+| [006-Seer事件翻译01](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/006_Seer_Event01_Translation.md) |                                                              |                                                         |               |
+| [007-Seer事件翻译02](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/007_Seer_Event02_Translation.md) |                                                              |                                                         |               |
+| [008-Seer事件翻译03](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/missions/cn/008_Seer_Event03_Translation.md) |                                                              |                                                         |               |
+|                                                              |                                                              |                                                         |               |
+|                                                              |                                                              |                                                         |               |
+|                                                              |                                                              |                                                         |               |
 
