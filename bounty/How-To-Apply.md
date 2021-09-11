@@ -16,7 +16,7 @@
 
 4. **填写内容，包括标题、贡献内容、预计完成时间等**
 
-   ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210803123553716.png)
+   ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20210910234126129.png)
 
    
 

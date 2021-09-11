@@ -52,7 +52,7 @@
 
 ## 官方悬赏任务
 
-团队也会不定期发放悬赏任务，官方悬赏任务将不计入每月积分限制中，官方悬赏任务清单见[**此表**](https://github.com/Whisker17/Seer-For-China/blob/main/bounty/official/lists.md)。
+团队也会不定期发放悬赏任务，官方悬赏任务将不计入每月积分限制中，官方悬赏任务清单见[**此表**](https://github.com/zeitgeistpm/Seer-For-China/blob/main/bounty/official/lists.md)。
 
 **所有官方悬赏的任务都接受所有人的监督，如果完成效果不佳，可以提出异议，奖励也可能会削减。**
 
